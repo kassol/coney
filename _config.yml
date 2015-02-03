@@ -57,11 +57,11 @@ fancybox: false
 
 #### Author information
 author:
-  google_plus:    ## eg:116338260303228776998 for https://plus.google.com/u/0/116338260303228776998
+  google_plus: 107683115324854657909   ## eg:116338260303228776998 for https://plus.google.com/u/0/116338260303228776998
   weibo:     kassol ## e.g. 436062867 for http://weibo.com/436062867
-  twitter:    ## e.g. gengbiaosky for https://twitter.com/yangjiansky
+  twitter: kassol_zx   ## e.g. gengbiaosky for https://twitter.com/yangjiansky
   github:    kassol ## e.g. coneycode for https://github.com/coneycode
-  facebook:   ## e.g. gengbiao for https://favebook.com/yangjian
+  facebook: kassol.zx  ## e.g. gengbiao for https://favebook.com/yangjian
   tsina:      ## e.g. 1664838973  Your weibo ID,It will be used in share button.
   zhihu:     # coneylife, now it is no icon, I have push an issue to Font Awesome.
 
